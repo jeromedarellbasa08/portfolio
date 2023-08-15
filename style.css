@@ -72,6 +72,11 @@
     color: #fff;
     text-align: right;
 }
+
+.services-content{
+    max-width: 600px;
+    color: #fff;
+}
 .home-content h1 {
     font-size: 45px;
     line-height: 1.2;
